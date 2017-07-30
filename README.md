@@ -9,29 +9,33 @@ For those who code for a living, an API is as much of a UI as anything with shap
 ## Total number of versions
 The entire code base is split into three versions (version:1.0,1.1, 1.2)<br>
 
-# Version:1.0
+### Version:1.0
 In here we create an aplication which shows issues regarding the javascript oldest to newest and newest at first.It would fetch immediatly after entering the page
 ### `git checkout version1.0 for 1.0`
 
-# Version:1.1
+### Version:1.1
 In here we improve the user interface making it clear enough for the user to understand and also removing the HTML tags adding the read more option and also perform styling for better user interface
 ### `git checkout version1.1 for 1.1`
 
-# Version:1.2
+### Version:1.2
 This is the final version of the project and we add the streaming functionality to the application without user interaction we can see the latest issues first
 ### `git checkout master for 1.2`
 
 ## Steps To Follow
 
-First open the link to download or clone the master  repository[github acccount](https://github.com/Nagabhairavanitish/React-Github-Issues).<br>
-now after cloning the repository open the console and type  the following commands
-### `cd React-Github-Issues`
+1, First open the link to download or clone the master  repository [github acccount](https://github.com/Nagabhairavanitish/React-Github-Issues).<br>
+2, Now after cloning the repository open the console and type  the following commands
+### `cd React-Github-Issues`<br>
 
- this will change the directory into React-Github-Issues now we need to install the npm modules use commands
+3, This will change the directory into React-Github-Issues now we need to install the npm modules use commands
 
-### `npm install`
+### `npm install`<br>
+4, After installing the npm modules now open the directory in any code editor i use [Atom](https://atom.io/) i ma providing the download link to download it.<br>
+5, Now open the githubaccount go into `settings` than open the `personaltokens` section write description and generate the token<br>
+6, Now copy the token and go into your code editor open the `srs\index.js`  and u will find this `const token = '  ';`
+insert the token into it and save the file 
 
- It takes time to install the npm modules now you need to start the npm
+7,Now you need to start the npm
 ### `npm start`
 
  Runs the app in the development mode.<br>
