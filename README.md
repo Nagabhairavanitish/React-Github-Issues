@@ -1,3 +1,18 @@
+GITHUB STREAM CLIENT
+=====================
+##Description
+```
+There are a bunch of APIs available for all sorts of data. Many things today are written as single-page applications (SPA) using “web technologies”. They are today available as webpages or even downloadable applications.
+
+For those who code for a living, an API is as much of a UI as anything with shapes and colors. However, we would like to create a user interface that will display the result of an API-call in an way thats approachable for a non-coder.
+```
+##Steps To Follow
+1,First open the link to download or clone the master  repository[github acccount](https://github.com/Nagabhairavanitish/React-Github-Issues)
+2,
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -1760,7 +1775,7 @@ If you’re using [Apache HTTP Server](https://httpd.apache.org/), you need to c
     RewriteRule ^ index.html [QSA,L]
 ```
 
-It will get copied to the `build` folder when you run `npm run build`. 
+It will get copied to the `build` folder when you run `npm run build`.
 
 If you’re using [Apache Tomcat](http://tomcat.apache.org/), you need to follow [this Stack Overflow answer](https://stackoverflow.com/a/41249464/4878474).
 

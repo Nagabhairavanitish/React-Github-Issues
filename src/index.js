@@ -8,7 +8,7 @@ import registerServiceWorker from './registerServiceWorker';
 
 const networkInterface = createNetworkInterface({ uri: 'https://api.github.com/graphql'});
 
-const token = '15f1cc045377ffe8e7d5bdcd2d878c19ff60385c';
+const token = '3c6705cdba4c88461425782c0b6180356568884f';
 
 const middlewareOne = {
   applyMiddleware(req, next) {
