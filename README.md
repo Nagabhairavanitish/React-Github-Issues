@@ -8,7 +8,7 @@ For those who code for a living, an API is as much of a UI as anything with shap
 ```
 ##Steps To Follow
 1,First open the link to download or clone the master  repository[github acccount](https://github.com/Nagabhairavanitish/React-Github-Issues)
-2,
+
 
 
 
